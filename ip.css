@@ -1,0 +1,88 @@
+.back1 {
+    background-image: url("https://img.freepik.com/free-photo/shot-kitchen-with-nobody-it-modern-dining-room-with-coffee-machine-cozy-interior-with-technology-furniture-decoration-architercture-comfortable-room_482257-14562.jpg?w=826&t=st=1691322134~exp=1691322734~hmac=9e83c784a69c07e18a237c57d461e0ed9b5c67f6720033eeaf7d622933192f45");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.image {
+    height: 250px;
+    width: 480px;
+    border-radius: 20px;
+}
+
+.image1 {
+    height: 120px;
+    width: 120px;
+    border-radius: 15px;
+
+}
+
+.font {
+    font-family: "roboto";
+}
+
+.card {
+    background-color: #ffff99;
+    height: 100px;
+    width: 450px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 15px;
+}
+
+.card1 {
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffff99;
+    padding: 10px;
+    margin: 10px;
+}
+
+.contactfont {
+    color: black;
+    font-family: "roboto";
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contact {
+    height: 250px;
+    padding: 20px;
+    width: 480px;
+    border-radius: 20px;
+    background-image: url("https://th.bing.com/th/id/OIP.NM8aLdLkEExL5lW9DoZyhQHaGG?pid=ImgDet&rs=1")
+}
+
+.card12 {
+    height: 180px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffff99;
+    padding: 10px;
+    margin: 10px;
+}
+
+.head {
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: "caveat";
+}
+
+.para {
+    font-size: 10px;
+}
+
+.text1 {
+    text-align: center;
+    font-family: "Roboto";
+    color: black;
+}
+
+.caraso {
+    border-radius: 20px;
+    margin: 15px;
+}
